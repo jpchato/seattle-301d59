@@ -37,7 +37,7 @@ function displayPics(){
   }
   // console.log(rando);
   // TODO: In a sentence or two, explain why the previous line of code threw an error when we changed the variable declaration from `var to `let`.
-  // PUT YOUR RESPONSE IN THIS COMMENT: The console says that rando is not defined. 
+  // PUT YOUR RESPONSE IN THIS COMMENT: The console says that rando is not defined. Rando is locally defined.
   console.log(viewed);
 
   for (let i = 0; i < 3; i++){
