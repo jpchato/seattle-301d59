@@ -11,12 +11,6 @@ nav ul {
   float: right;
 }
 
-footer section p{
-  padding: 50px 0;
-  line-height: 1.5em;
-  text-align: center;
-  color: #aaa;
-}
 
 aside button {
   float: right;
@@ -34,4 +28,58 @@ hr {
   border: 0;
   height: 13px;
   background-image: url('../img/hr.png');
+}
+
+aside p {
+  padding-left: 100px;
+  width: 65%;
+  margin: 0;
+  text-indent: 0;
+
+}
+
+aside button {
+  float: right;
+  font-family: 'Abel', sans-serif;
+  text-transform: uppercase;
+  padding: 15px 40px;
+  background: #b8705a;
+  color: #fff;
+  font-size: 1.2em;
+  border: none;
+}
+
+aside img {
+  float: left;
+}
+
+.recipe li {
+  float: left;
+  width: 40%;
+  font-size: 1.3em;
+  line-height: 31px;
+}
+
+.date {
+  float: left;
+}
+
+.print {
+  text-decoration: none;
+  padding-left: 30px;
+  float: right;
+}
+
+nav ul {
+  float: right;
+}
+
+
+nav li {
+  float: left;
+  padding-right: 2px;
+}
+
+#logo img {
+  float: left;
 }
